@@ -1,3 +1,7 @@
+/**
+* Stack.java
+* This class represents a stack
+**/
 package ds;
 
 import java.util.ArrayList;
